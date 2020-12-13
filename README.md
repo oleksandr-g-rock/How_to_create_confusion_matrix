@@ -7,9 +7,10 @@ https://oleksandrg.medium.com/how-to-visualize-the-history-of-network-learning-a
 
 
 
-# Also
-If you were interested in this code, please put a star *.
-Also, if you were interested in my article, please subscribe to my blog
-https://oleksandrg.medium.com/
+<h2 align="left">Also</h2>
+<h2 align="left">If you were interested in this code, please put a star ✰ for this repo </h2>
+<h2 align="left">Also, if you were interested in my article, please subscribe to my blog </h2>
+<h2 align="left"> https://oleksandrg.medium.com/ </h2>
 
-Thank you :)
+<h2 align="right">Thank you 🙂</h2>
+
